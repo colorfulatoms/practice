@@ -6,4 +6,5 @@
 int main() {
     std::cout << "hello" << '\n';
     std::cout << "this line is new" << '\n';
+    std::cout << "hello new line" << '\n';
 }
